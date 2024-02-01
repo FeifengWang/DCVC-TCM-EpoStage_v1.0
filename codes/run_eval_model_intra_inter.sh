@@ -1,0 +1,1 @@
+python eval_model_Intra_and_Inter_forward_yuv.py checkpoint --dataset /media/sugon/新加卷/wff/media/HEVC_D -exp vimeo_exp_01_mse_q0512 -a ssf2020 -i cheng2020-anchor --output ../result -est --cuda --frames 96
